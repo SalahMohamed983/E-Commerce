@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\apilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:apilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636195D-016E-452B-B54C-0FAB0DBFA54D}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\fullstack projects\\backend\\businesslayer\\services\\favoritproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F877878A-4C92-4112-ADB0-38B124416C1C}|..\\DtoLayer\\DtosLayer.csproj|d:\\fullstack projects\\backend\\dtolayer\\dtos\\favoritproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\favoritproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\favoritproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\jwt\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:jwt\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\e_commerceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:e_commerceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636195D-016E-452B-B54C-0FAB0DBFA54D}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\fullstack projects\\backend\\businesslayer\\businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636195D-016E-452B-B54C-0FAB0DBFA54D}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\fullstack projects\\backend\\businesslayer\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8636195D-016E-452B-B54C-0FAB0DBFA54D}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\fullstack projects\\backend\\businesslayer\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\repository\\productrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\repository\\readonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F57B4-B74F-4041-A835-711636A92CC4}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\fullstack projects\\backend\\dataaccesslayer\\repository\\orderdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\ratingandreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\ratingandreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F877878A-4C92-4112-ADB0-38B124416C1C}|..\\DtoLayer\\DtosLayer.csproj|d:\\fullstack projects\\backend\\dtolayer\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\config\\paypalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:config\\paypalsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|d:\\fullstack projects\\backend\\e_commerceapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73413CFA-4466-4254-92D6-8714A0D741F8}|APILayer.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:53:13.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APILayer.csproj",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\APILayer.csproj",
+              "RelativeDocumentMoniker": "APILayer.csproj",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\APILayer.csproj",
+              "RelativeToolTip": "APILayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T15:55:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoritProductController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\FavoritProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoritProductController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\FavoritProductController.cs",
+              "RelativeToolTip": "Controllers\\FavoritProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:46:58.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoritProductsService.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\Services\\FavoritProductsService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Services\\FavoritProductsService.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\Services\\FavoritProductsService.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Services\\FavoritProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T21:38:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoritProductsDto.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DtoLayer\\Dtos\\FavoritProductsDto.cs",
+              "RelativeDocumentMoniker": "..\\DtoLayer\\Dtos\\FavoritProductsDto.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DtoLayer\\Dtos\\FavoritProductsDto.cs",
+              "RelativeToolTip": "..\\DtoLayer\\Dtos\\FavoritProductsDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:50:33.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.305\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAmwAkBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-14T12:54:14.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayPalController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\PayPalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PayPalController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\PayPalController.cs",
+              "RelativeToolTip": "Controllers\\PayPalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:35:10.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:47:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AddressController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T09:50:39.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:54:00.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T09:58:20.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Jwt\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Jwt\\JwtOptions.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Jwt\\JwtOptions.cs",
+              "RelativeToolTip": "Jwt\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:40:42.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ECommerceDbContext.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Data\\ECommerceDbContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDAAAADkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:49:18.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP0UAAAAAAAAAAAmwBIVAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-14T09:50:31.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "E_CommerceAPI.http",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\E_CommerceAPI.http",
+              "RelativeDocumentMoniker": "E_CommerceAPI.http",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\E_CommerceAPI.http",
+              "RelativeToolTip": "E_CommerceAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-14T09:43:23.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\BusinessLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T07:13:04.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:47:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:46:54.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Services\\ProductService.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\BusinessLayer\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Services\\ProductService.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:06:02.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:47:11.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "..\\DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T06:56:27.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:41:51.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRpository.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\ProductRpository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\ProductRpository.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\ProductRpository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\ProductRpository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:48:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReadOnlyRepository.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\ReadOnlyRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\ReadOnlyRepository.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\ReadOnlyRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\ReadOnlyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:48:40.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:04:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\UnitOfWork.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T02:04:46.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RatingAndReviewController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\RatingAndReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RatingAndReviewController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\RatingAndReviewController.cs",
+              "RelativeToolTip": "Controllers\\RatingAndReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:53:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderData.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\OrderData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\Repository\\OrderData.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DataAccessLayer\\Repository\\OrderData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\Repository\\OrderData.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:48:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:47:10.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\DtoLayer\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "..\\DtoLayer\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\DtoLayer\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "..\\DtoLayer\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:27:03.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PayPalSettings.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Config\\PayPalSettings.cs",
+              "RelativeDocumentMoniker": "Config\\PayPalSettings.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Config\\PayPalSettings.cs",
+              "RelativeToolTip": "Config\\PayPalSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:34:36.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\FULLStack Projects\\Backend\\E_CommerceAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:11:06.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

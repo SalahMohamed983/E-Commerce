@@ -1,0 +1,123 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-primary: rgb(62, 62, 62);
+  --color-secondary: #ff5252;
+  --color-tertiary: rgba(196, 194, 216, 0.4);
+  --color-tetra: rgb(62, 62, 62);
+  --color-five: #eeeeeecb;
+}
+
+button:hover
+{
+cursor: pointer;
+}
+
+p.fontStyle {
+    /* color: rgb(62, 62, 62); */
+    font-family: Montserrat sans-serif;
+}
+
+.hoverSix:hover > img 
+{
+transform: scale(1.1);
+transition: .4s !important;
+
+}
+
+.hoverPrimary:hover .icon
+{
+    /* cursor: pointer; */
+    transition: 0.4s;
+    transform: translateY(-10px);
+color: #ff5252;
+}
+.hoverSec:hover 
+{
+    transition: 0.2s !important;
+    cursor: pointer;
+ color : #ff5252;
+}
+.hoverTertiary:hover
+{
+    background-color: #eeeeeecb;
+}
+.hoverTatra:hover img
+{
+    transform: scale(1.1);
+    transition: 0.2s;
+  filter: drop-shadow(10px 14px 18px #ccc9c9cb);
+}
+ul li:hover
+{
+    color: #ff5252;
+    cursor: pointer;
+}
+
+.icon-btn
+{ 
+    border-radius: 100% !important;
+    height: 35px !important;
+    width: 35px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: 0.4s !important; 
+    background-color: white !important;
+  margin-bottom: 5px !important;
+color: black !important;
+
+}
+.icon-btn:hover {
+    color: white !important;
+    background-color: #ff5252 !important;
+}
+.show-icon-list
+{
+    transform: translateY(-120%);
+opacity: 0% ;
+transition: all 0.5s;
+}
+.card:hover .show-icon-list
+{
+opacity: 100%;
+    transform: translateY(0%);
+}
+
+input:focus
+{
+    outline: none;
+}
+
+input
+{
+    caret-color: #ff5252;
+}
+
+
+.hide-scrollbar
+{
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+
+.hide-scrollbar::-webkit-scrollbar
+{
+    display: none;
+}
+
+
+*::-webkit-scrollbar
+{
+    background-color: #eeeeeecb;
+    width: 4px;
+}
+
+*::-webkit-scrollbar-thumb
+{
+    background-color: #ff5252;
+    border-radius: 50px;
+
+}

@@ -1,0 +1,48 @@
+/* HeaderStyle.css */
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: black !important;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 50; /* مهم عشان يبان فوق باقي العناصر */
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  background-color: #ff5252 !important;
+  color: white !important;
+  transition: 0.3s ease;
+}
+
+.custom-swiper .swiper-pagination-bullet {
+  background-color: #ff5252 !important;
+  opacity: 0.5;
+}
+
+/* dot اللي Active */
+.custom-swiper .swiper-pagination-bullet-active {
+  background-color: #ff5252 !important;
+  opacity: 1;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 21px;
+}
+
+@media (max-width: 1100px) {
+  
+.swiper-button-next,
+.swiper-button-prev {
+  width: 27px;
+  height: 27px;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 13px;
+}
+}

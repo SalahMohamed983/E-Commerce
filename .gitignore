@@ -1,22 +1,20 @@
-# --- Frontend (Node / React / Vue) ---
-node_modules/
-dist/
-build/
-.env
-npm-debug.log
-yarn-error.log
+# ======== FrontEnd (Node/Vite/React/Angular) ========
+node_modules
+dist
+dist-ssr
+*.local
+*.log
 
-# --- Backend (.NET / Visual Studio) ---
+# ======== BackEnd (ASP.NET / C#) ========
 bin/
 obj/
-.vs/
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
+*.dbmdl
+*.log
 
-# --- Editors / System files ---
+# ======== Editor / System ========
 .vscode/
+.idea/
 .DS_Store
 Thumbs.db
-*.log
