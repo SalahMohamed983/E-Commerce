@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<EnableDefaultContentItems>false</EnableDefaultContentItems>
+	<DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+	<DockerfileContext>.</DockerfileContext>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.20" />
+    <PackageReference Include="PayPalCheckoutSdk" Version="1.0.4" />
+
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
+    <ProjectReference Include="..\DtoLayer\DtosLayer.csproj" />
+  </ItemGroup>
+	<ItemGroup>
+		<!-- انسخ بس الصور الموجودة فعليًا -->
+		<Content Include="wwwroot\uploads\products\**\*.*" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+
+		<!-- تجاهل أي static web assets مش موجودة -->
+		<None Remove="wwwroot\uploads\products\**\*.*" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="appsettings.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+</Project>
